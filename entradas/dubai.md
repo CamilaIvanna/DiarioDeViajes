@@ -3,3 +3,5 @@
 Ciudad del lujo y la modernidad en el desierto.
 ### Recomendación
 Subir al Burj Khalifa y visitar Palm Jumeirah.
+### Foto
+![Burj Khalifa](https://www.burjkhalifa.ae/en/)
